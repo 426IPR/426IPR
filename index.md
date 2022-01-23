@@ -1,11 +1,17 @@
 # 知识产权师
 ——知识产权行业唯一的国家级职称考试
 
+从2006年开始，我国各地陆续开展了知识产权职称改革试点。直到2019年，人社部颁发《关于深化经济专业人员职称制度改革的指导意见》，将知识产权专业新增加入经济专业资格考试当中，并且，知识产权专业职称直接以专业名称命名，即：[助理知识产权师（初级）、知识产权师（中级）、高级知识产权师（副高）、正高级知识产权师（正高）](https://new.qq.com/omn/20210817/20210817A0CGMY00.html)，初中级采取以考代评、副高级采取考试+评审、正高级采取评审方式取得；知识产权从业者有了全国统一标准的职称。
+
 ![image](https://user-images.githubusercontent.com/98260219/150676908-e70115f4-f80c-4df6-9463-c72f24d8f391.png)
 ![image](https://user-images.githubusercontent.com/98260219/150676920-30ae80b2-b2ef-4d5e-a5df-463fb399479d.png)
 > 中级到高级，要5年。
 
 ## 考试事项
+
+专利代理师资格考试时间为11月5日、6日；
+经济师（高级）职业资格考试时间为6月18日，经济师（初级、中级）职业资格考试时间为11月12日、13日；
+法律职业资格（客观题）9月17日、18日，法律职业资格（主观题）10月16日。
 
 ### [2022年“专利代理师/知识产权师/律师”考试时间公布！](https://new.qq.com/omn/20220114/20220114A026FO00.html)
 
@@ -70,36 +76,23 @@
 
 ## 参考
 
+1. [知识产权师职称考试VS专利代理师资格考试](https://zhuanlan.zhihu.com/p/133913905)
+2. [知识产权师职称考试](https://www.zhihu.com/column/c_1253737951235813376)
+3. [首次知识产权师职称考试备受关注](http://www.iprchn.com/cipnews/news_content.aspx?newsId=124362)
+4. [知识产权师之家](http://www.cipspx.com/)
+5. [知识产权课堂](https://www.xueipr.com/)
+6. [智燃界](https://www.zhiranjie.com/)
+7. [公布了！2021年知识产权师初/中级职称考试大纲](http://www.chinaipmagazine.com/news-show.asp?25360.html)
+8. [思博论坛：经济师/知识产权师考试](https://bbs.mysipo.com/forum-170-1.html)
+9. [智燃界论坛：知识产权师职称考试](https://bbs.zhiranjie.com/forum-44-1.html)
+10. [关于印发《北京市知识产权专业职称评价试行办法》的通知](http://zscqj.beijing.gov.cn/zscqj/zwgk/zcfg/gfxwj/11134281/index.html)
+11. [北京：2021年知识产权师职称考试报名通知【附报名时间】](https://patent.bbscloud.com/info/afe8edf16c074c47a05885cf780b51a7)
+12. [中级知识产权师通过后，如何进阶高级知识产权师职称？](https://www.dailishi.net/info/e0ad885c4549485e998ed52b878073e6)
+13. [关于报送2021年度江苏省知识产权专业高级技术资格评审材料的通知](https://sme.sipac.gov.cn/epservice//techsub/Apps/sme/index.php?s=/Home/Notice/noticeDetail/id/302693/query_value1//orderway//i/3)
+14. [2020年中级经济师《知识产权》专业考试教材](http://m.jingjishi.org.cn/beikao/kaoshijiaocai/1464.html)
+15. [人力资源社会保障部关于印发经济专业技术资格规定和经济专业技术资格考试实施办法的通知](http://www.mohrss.gov.cn/SYrlzyhshbzb/ztzl/zyhzyzggg/zcwj_zc/zyzg/202001/t20200117_355799.html)
+16. [2022年中级经济师《知识产权》预习知识点汇总（1月6日更新）](http://www.hqwx.com/web_news/html/2021-12/16401523054325.html)
+17. [知识产权师考试报名及备考质料汇总（初/中/高）-思博论坛](http://www.aitesao.com/mianchuxingfa/214794.html)
+
 ![Alt](https://repobeats.axiom.co/api/embed/969a51ecce0356c3f262636773a54a4d9cec6e3a.svg "Repobeats analytics image")
 
-## Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/426IPR/426IPR/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
