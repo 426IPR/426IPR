@@ -93,6 +93,7 @@
 15. [人力资源社会保障部关于印发经济专业技术资格规定和经济专业技术资格考试实施办法的通知](http://www.mohrss.gov.cn/SYrlzyhshbzb/ztzl/zyhzyzggg/zcwj_zc/zyzg/202001/t20200117_355799.html)
 16. [2022年中级经济师《知识产权》预习知识点汇总（1月6日更新）](http://www.hqwx.com/web_news/html/2021-12/16401523054325.html)
 17. [知识产权师考试报名及备考质料汇总（初/中/高）-思博论坛](http://www.aitesao.com/mianchuxingfa/214794.html)
+18. [【最新通知】关于做好2021年度广东省知识产权专业高级职称评审工作的通知](https://mp.weixin.qq.com/s/LHw1xz8KNROQkmL9URdJwA)
 
 ![Alt](https://repobeats.axiom.co/api/embed/969a51ecce0356c3f262636773a54a4d9cec6e3a.svg "Repobeats analytics image")
 
